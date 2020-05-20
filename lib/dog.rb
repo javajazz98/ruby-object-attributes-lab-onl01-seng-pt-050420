@@ -8,5 +8,6 @@ class dog
   def breed 
      @breed 
   end
-    Def breed=
+    Def breed=(breed)
+    @breed
     
